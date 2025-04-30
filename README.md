@@ -1,4 +1,3 @@
-# HansaniBandara
 ## 👋 Hi there, I'm Hansani Bandara
 
 🎓 I'm an undergraduate specializing in **Applied Data Science and Communication** at [KDU Sri Lanka](https://www.kdu.ac.lk/), with a passion for blending machine learning, communication, and community development.
